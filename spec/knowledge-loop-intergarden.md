@@ -98,4 +98,4 @@ If any fermentation is used, offgassing (often CO₂) should be treated primaril
 Possible careful reuse:
 - contained CO₂ enrichment for a small plant micro-zone (only if monitored and vented safely)
 
-Avoid bubbling fermentation gases into water systems; CO₂ shifts pH and can stress organisms.
+Avoid bubbling fermentation gases into water systems; CO₂ shifts pH and can stress organisms. 
