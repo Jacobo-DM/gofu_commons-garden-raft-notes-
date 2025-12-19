@@ -106,7 +106,7 @@ Keep it simple. No theatrics required.
 (If kids roll their eyes, that’s fine. Consistency is the magic, not drama.)
 
 ---
-
+ 
 ## One-line definition (for README / signage)
 **Spoovel House:** the tending vessel of the Bloom — a shared hearth for repairs, spare parts, spoovels, stories, and the Elephant Circle.
 
